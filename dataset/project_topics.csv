@@ -1,0 +1,101 @@
+project_id,title,domain,skills,interests,difficulty,duration,description
+P001,House Price Prediction,Machine Learning,"Scikit-learn, NumPy, NLTK, SQL",Machine Learning,Beginner,8 Weeks,House Price Prediction using Artificial Intelligence and Machine Learning techniques.
+P002,Student Performance Prediction,Machine Learning,"NLTK, Pandas, PyTorch, Python",Machine Learning,Beginner,5 Weeks,Student Performance Prediction using Artificial Intelligence and Machine Learning techniques.
+P003,Customer Churn Prediction,Machine Learning,"PyTorch, Pandas, Scikit-learn, NumPy",Machine Learning,Beginner,3 Weeks,Customer Churn Prediction using Artificial Intelligence and Machine Learning techniques.
+P004,Sales Forecasting,Machine Learning,"NumPy, PyTorch, SQL, Pandas",Machine Learning,Intermediate,5 Weeks,Sales Forecasting using Artificial Intelligence and Machine Learning techniques.
+P005,Loan Approval Prediction,Machine Learning,"spaCy, OpenCV, Scikit-learn, PyTorch",Machine Learning,Advanced,6 Weeks,Loan Approval Prediction using Artificial Intelligence and Machine Learning techniques.
+P006,Insurance Premium Prediction,Machine Learning,"NLTK, Scikit-learn, PyTorch, Pandas",Machine Learning,Intermediate,8 Weeks,Insurance Premium Prediction using Artificial Intelligence and Machine Learning techniques.
+P007,Employee Attrition Prediction,Machine Learning,"SQL, OpenCV, Pandas, spaCy",Machine Learning,Advanced,6 Weeks,Employee Attrition Prediction using Artificial Intelligence and Machine Learning techniques.
+P008,Stock Price Prediction,Machine Learning,"SQL, Python, Pandas, NumPy",Machine Learning,Advanced,2 Weeks,Stock Price Prediction using Artificial Intelligence and Machine Learning techniques.
+P009,Movie Recommendation System,Machine Learning,"OpenCV, PyTorch, Flask, TensorFlow",Machine Learning,Beginner,4 Weeks,Movie Recommendation System using Artificial Intelligence and Machine Learning techniques.
+P010,Music Recommendation System,Machine Learning,"NumPy, Flask, Scikit-learn, SQL",Machine Learning,Beginner,6 Weeks,Music Recommendation System using Artificial Intelligence and Machine Learning techniques.
+P011,Fake News Detection,Natural Language Processing,"PyTorch, OpenCV, NLTK, Python",Natural Language Processing,Intermediate,5 Weeks,Fake News Detection using Artificial Intelligence and Machine Learning techniques.
+P012,Resume Screening System,Natural Language Processing,"NLTK, Pandas, Flask, NumPy",Natural Language Processing,Beginner,2 Weeks,Resume Screening System using Artificial Intelligence and Machine Learning techniques.
+P013,Medical Chatbot,Natural Language Processing,"TensorFlow, PyTorch, Pandas, spaCy",Natural Language Processing,Beginner,5 Weeks,Medical Chatbot using Artificial Intelligence and Machine Learning techniques.
+P014,College Query Chatbot,Natural Language Processing,"NumPy, Flask, Python, spaCy",Natural Language Processing,Intermediate,2 Weeks,College Query Chatbot using Artificial Intelligence and Machine Learning techniques.
+P015,Spam Email Detection,Natural Language Processing,"TensorFlow, PyTorch, Python, Scikit-learn",Natural Language Processing,Advanced,6 Weeks,Spam Email Detection using Artificial Intelligence and Machine Learning techniques.
+P016,Sentiment Analysis,Natural Language Processing,"NumPy, Python, Pandas, spaCy",Natural Language Processing,Beginner,8 Weeks,Sentiment Analysis using Artificial Intelligence and Machine Learning techniques.
+P017,Language Translator,Natural Language Processing,"spaCy, Pandas, SQL, Scikit-learn",Natural Language Processing,Beginner,6 Weeks,Language Translator using Artificial Intelligence and Machine Learning techniques.
+P018,Grammar Checker,Natural Language Processing,"TensorFlow, NLTK, Python, PyTorch",Natural Language Processing,Beginner,5 Weeks,Grammar Checker using Artificial Intelligence and Machine Learning techniques.
+P019,Text Summarizer,Natural Language Processing,"NLTK, PyTorch, Pandas, TensorFlow",Natural Language Processing,Advanced,5 Weeks,Text Summarizer using Artificial Intelligence and Machine Learning techniques.
+P020,AI Email Generator,Natural Language Processing,"spaCy, Flask, Python, NLTK",Natural Language Processing,Advanced,2 Weeks,AI Email Generator using Artificial Intelligence and Machine Learning techniques.
+P021,Face Recognition System,Computer Vision,"TensorFlow, Flask, OpenCV, Pandas",Computer Vision,Intermediate,8 Weeks,Face Recognition System using Artificial Intelligence and Machine Learning techniques.
+P022,Face Mask Detection,Computer Vision,"Scikit-learn, OpenCV, NLTK, Flask",Computer Vision,Intermediate,6 Weeks,Face Mask Detection using Artificial Intelligence and Machine Learning techniques.
+P023,Vehicle Detection,Computer Vision,"Scikit-learn, SQL, OpenCV, NLTK",Computer Vision,Intermediate,2 Weeks,Vehicle Detection using Artificial Intelligence and Machine Learning techniques.
+P024,Fire Detection,Computer Vision,"spaCy, PyTorch, Pandas, NLTK",Computer Vision,Intermediate,3 Weeks,Fire Detection using Artificial Intelligence and Machine Learning techniques.
+P025,Traffic Sign Recognition,Computer Vision,"PyTorch, Python, Flask, Pandas",Computer Vision,Beginner,3 Weeks,Traffic Sign Recognition using Artificial Intelligence and Machine Learning techniques.
+P026,Number Plate Detection,Computer Vision,"Flask, NumPy, Scikit-learn, Python",Computer Vision,Advanced,3 Weeks,Number Plate Detection using Artificial Intelligence and Machine Learning techniques.
+P027,Hand Gesture Recognition,Computer Vision,"spaCy, Pandas, SQL, PyTorch",Computer Vision,Beginner,6 Weeks,Hand Gesture Recognition using Artificial Intelligence and Machine Learning techniques.
+P028,Image Caption Generator,Computer Vision,"Python, OpenCV, NLTK, TensorFlow",Computer Vision,Advanced,3 Weeks,Image Caption Generator using Artificial Intelligence and Machine Learning techniques.
+P029,Human Pose Detection,Computer Vision,"NLTK, Pandas, Scikit-learn, spaCy",Computer Vision,Beginner,2 Weeks,Human Pose Detection using Artificial Intelligence and Machine Learning techniques.
+P030,Plant Disease Detection,Computer Vision,"SQL, Flask, Python, NumPy",Computer Vision,Beginner,3 Weeks,Plant Disease Detection using Artificial Intelligence and Machine Learning techniques.
+P031,Heart Disease Prediction,Healthcare,"Python, Flask, NLTK, SQL",Healthcare,Beginner,4 Weeks,Heart Disease Prediction using Artificial Intelligence and Machine Learning techniques.
+P032,Diabetes Prediction,Healthcare,"SQL, Flask, spaCy, NumPy",Healthcare,Beginner,6 Weeks,Diabetes Prediction using Artificial Intelligence and Machine Learning techniques.
+P033,Brain Tumor Detection,Healthcare,"Scikit-learn, PyTorch, Flask, OpenCV",Healthcare,Intermediate,6 Weeks,Brain Tumor Detection using Artificial Intelligence and Machine Learning techniques.
+P034,Medical Report Analyzer,Healthcare,"NLTK, PyTorch, Flask, spaCy",Healthcare,Advanced,6 Weeks,Medical Report Analyzer using Artificial Intelligence and Machine Learning techniques.
+P035,Hospital Management AI,Healthcare,"spaCy, SQL, Pandas, NumPy",Healthcare,Advanced,3 Weeks,Hospital Management AI using Artificial Intelligence and Machine Learning techniques.
+P036,Skin Disease Detection,Healthcare,"NLTK, PyTorch, spaCy, Pandas",Healthcare,Intermediate,6 Weeks,Skin Disease Detection using Artificial Intelligence and Machine Learning techniques.
+P037,Medicine Recommendation,Healthcare,"NumPy, spaCy, Scikit-learn, Python",Healthcare,Advanced,8 Weeks,Medicine Recommendation using Artificial Intelligence and Machine Learning techniques.
+P038,AI Health Assistant,Healthcare,"Pandas, SQL, NumPy, PyTorch",Healthcare,Beginner,3 Weeks,AI Health Assistant using Artificial Intelligence and Machine Learning techniques.
+P039,Disease Prediction System,Healthcare,"Scikit-learn, PyTorch, spaCy, NLTK",Healthcare,Advanced,5 Weeks,Disease Prediction System using Artificial Intelligence and Machine Learning techniques.
+P040,Medical Image Classification,Healthcare,"OpenCV, spaCy, PyTorch, Flask",Healthcare,Advanced,6 Weeks,Medical Image Classification using Artificial Intelligence and Machine Learning techniques.
+P041,Credit Card Fraud Detection,Finance,"TensorFlow, NLTK, Pandas, Flask",Finance,Intermediate,3 Weeks,Credit Card Fraud Detection using Artificial Intelligence and Machine Learning techniques.
+P042,Expense Tracker,Finance,"Scikit-learn, Python, NumPy, SQL",Finance,Beginner,6 Weeks,Expense Tracker using Artificial Intelligence and Machine Learning techniques.
+P043,Loan Eligibility Checker,Finance,"Pandas, Python, SQL, NLTK",Finance,Intermediate,5 Weeks,Loan Eligibility Checker using Artificial Intelligence and Machine Learning techniques.
+P044,Stock Market Dashboard,Finance,"OpenCV, PyTorch, spaCy, TensorFlow",Finance,Intermediate,3 Weeks,Stock Market Dashboard using Artificial Intelligence and Machine Learning techniques.
+P045,Personal Finance Assistant,Finance,"OpenCV, Scikit-learn, Pandas, Flask",Finance,Advanced,4 Weeks,Personal Finance Assistant using Artificial Intelligence and Machine Learning techniques.
+P046,Fraud Transaction Detection,Finance,"SQL, Flask, Scikit-learn, spaCy",Finance,Beginner,6 Weeks,Fraud Transaction Detection using Artificial Intelligence and Machine Learning techniques.
+P047,Budget Prediction,Finance,"Scikit-learn, Pandas, NLTK, PyTorch",Finance,Advanced,8 Weeks,Budget Prediction using Artificial Intelligence and Machine Learning techniques.
+P048,Investment Advisor,Finance,"Flask, Scikit-learn, TensorFlow, NumPy",Finance,Intermediate,2 Weeks,Investment Advisor using Artificial Intelligence and Machine Learning techniques.
+P049,Bank Customer Segmentation,Finance,"PyTorch, OpenCV, Pandas, Scikit-learn",Finance,Intermediate,3 Weeks,Bank Customer Segmentation using Artificial Intelligence and Machine Learning techniques.
+P050,Risk Analysis System,Finance,"SQL, NLTK, TensorFlow, OpenCV",Finance,Beginner,6 Weeks,Risk Analysis System using Artificial Intelligence and Machine Learning techniques.
+P051,AI Study Planner,Education,"OpenCV, Pandas, spaCy, Flask",Education,Advanced,4 Weeks,AI Study Planner using Artificial Intelligence and Machine Learning techniques.
+P052,Smart Attendance System,Education,"SQL, spaCy, Flask, PyTorch",Education,Beginner,5 Weeks,Smart Attendance System using Artificial Intelligence and Machine Learning techniques.
+P053,AI Quiz Generator,Education,"spaCy, Pandas, OpenCV, NLTK",Education,Advanced,5 Weeks,AI Quiz Generator using Artificial Intelligence and Machine Learning techniques.
+P054,Exam Performance Analyzer,Education,"OpenCV, TensorFlow, SQL, NumPy",Education,Beginner,5 Weeks,Exam Performance Analyzer using Artificial Intelligence and Machine Learning techniques.
+P055,Course Recommendation System,Education,"NumPy, OpenCV, PyTorch, SQL",Education,Advanced,8 Weeks,Course Recommendation System using Artificial Intelligence and Machine Learning techniques.
+P056,Student Feedback Analysis,Education,"SQL, OpenCV, Scikit-learn, Python",Education,Beginner,5 Weeks,Student Feedback Analysis using Artificial Intelligence and Machine Learning techniques.
+P057,Placement Prediction,Education,"OpenCV, Pandas, SQL, Flask",Education,Intermediate,4 Weeks,Placement Prediction using Artificial Intelligence and Machine Learning techniques.
+P058,Online Exam Proctoring,Education,"Scikit-learn, TensorFlow, Flask, PyTorch",Education,Advanced,5 Weeks,Online Exam Proctoring using Artificial Intelligence and Machine Learning techniques.
+P059,AI Tutor,Education,"OpenCV, spaCy, NLTK, Pandas",Education,Intermediate,2 Weeks,AI Tutor using Artificial Intelligence and Machine Learning techniques.
+P060,Learning Progress Tracker,Education,"Flask, spaCy, NLTK, OpenCV",Education,Beginner,6 Weeks,Learning Progress Tracker using Artificial Intelligence and Machine Learning techniques.
+P061,Crop Recommendation,Agriculture,"NLTK, TensorFlow, SQL, Flask",Agriculture,Beginner,3 Weeks,Crop Recommendation using Artificial Intelligence and Machine Learning techniques.
+P062,Soil Quality Prediction,Agriculture,"Pandas, NumPy, OpenCV, spaCy",Agriculture,Advanced,3 Weeks,Soil Quality Prediction using Artificial Intelligence and Machine Learning techniques.
+P063,Smart Irrigation System,Agriculture,"Python, Pandas, Scikit-learn, NLTK",Agriculture,Beginner,5 Weeks,Smart Irrigation System using Artificial Intelligence and Machine Learning techniques.
+P064,Plant Disease Detection,Agriculture,"SQL, NumPy, Pandas, NLTK",Agriculture,Intermediate,4 Weeks,Plant Disease Detection using Artificial Intelligence and Machine Learning techniques.
+P065,Weather Forecasting,Agriculture,"NumPy, Scikit-learn, SQL, TensorFlow",Agriculture,Beginner,3 Weeks,Weather Forecasting using Artificial Intelligence and Machine Learning techniques.
+P066,Crop Yield Prediction,Agriculture,"NumPy, TensorFlow, Flask, Python",Agriculture,Advanced,2 Weeks,Crop Yield Prediction using Artificial Intelligence and Machine Learning techniques.
+P067,Fertilizer Recommendation,Agriculture,"Scikit-learn, OpenCV, spaCy, Pandas",Agriculture,Beginner,4 Weeks,Fertilizer Recommendation using Artificial Intelligence and Machine Learning techniques.
+P068,Smart Farming Assistant,Agriculture,"NumPy, Flask, Pandas, spaCy",Agriculture,Intermediate,2 Weeks,Smart Farming Assistant using Artificial Intelligence and Machine Learning techniques.
+P069,Livestock Health Prediction,Agriculture,"Python, NumPy, TensorFlow, Flask",Agriculture,Intermediate,8 Weeks,Livestock Health Prediction using Artificial Intelligence and Machine Learning techniques.
+P070,Farm Monitoring System,Agriculture,"NLTK, Pandas, OpenCV, NumPy",Agriculture,Beginner,3 Weeks,Farm Monitoring System using Artificial Intelligence and Machine Learning techniques.
+P071,Phishing Website Detection,Cybersecurity,"Python, SQL, TensorFlow, NLTK",Cybersecurity,Advanced,4 Weeks,Phishing Website Detection using Artificial Intelligence and Machine Learning techniques.
+P072,Password Strength Analyzer,Cybersecurity,"PyTorch, Pandas, SQL, Scikit-learn",Cybersecurity,Beginner,5 Weeks,Password Strength Analyzer using Artificial Intelligence and Machine Learning techniques.
+P073,Malware Detection,Cybersecurity,"SQL, NumPy, Pandas, Python",Cybersecurity,Advanced,3 Weeks,Malware Detection using Artificial Intelligence and Machine Learning techniques.
+P074,Network Intrusion Detection,Cybersecurity,"OpenCV, NumPy, TensorFlow, PyTorch",Cybersecurity,Beginner,5 Weeks,Network Intrusion Detection using Artificial Intelligence and Machine Learning techniques.
+P075,Cyber Threat Detection,Cybersecurity,"NumPy, Flask, spaCy, Pandas",Cybersecurity,Beginner,8 Weeks,Cyber Threat Detection using Artificial Intelligence and Machine Learning techniques.
+P076,Email Spam Filter,Cybersecurity,"Pandas, OpenCV, TensorFlow, PyTorch",Cybersecurity,Intermediate,5 Weeks,Email Spam Filter using Artificial Intelligence and Machine Learning techniques.
+P077,Secure Login System,Cybersecurity,"TensorFlow, NumPy, Pandas, SQL",Cybersecurity,Advanced,4 Weeks,Secure Login System using Artificial Intelligence and Machine Learning techniques.
+P078,Face Authentication,Cybersecurity,"OpenCV, SQL, TensorFlow, PyTorch",Cybersecurity,Intermediate,6 Weeks,Face Authentication using Artificial Intelligence and Machine Learning techniques.
+P079,File Encryption Tool,Cybersecurity,"Scikit-learn, NumPy, OpenCV, PyTorch",Cybersecurity,Intermediate,3 Weeks,File Encryption Tool using Artificial Intelligence and Machine Learning techniques.
+P080,AI Security Assistant,Cybersecurity,"spaCy, NLTK, Scikit-learn, SQL",Cybersecurity,Advanced,2 Weeks,AI Security Assistant using Artificial Intelligence and Machine Learning techniques.
+P081,AI Resume Builder,Generative AI,"OpenCV, Scikit-learn, NumPy, TensorFlow",Generative AI,Advanced,8 Weeks,AI Resume Builder using Artificial Intelligence and Machine Learning techniques.
+P082,AI Story Generator,Generative AI,"Pandas, NumPy, spaCy, Scikit-learn",Generative AI,Advanced,4 Weeks,AI Story Generator using Artificial Intelligence and Machine Learning techniques.
+P083,AI Interview Coach,Generative AI,"Python, SQL, OpenCV, PyTorch",Generative AI,Advanced,4 Weeks,AI Interview Coach using Artificial Intelligence and Machine Learning techniques.
+P084,AI Code Assistant,Generative AI,"PyTorch, SQL, TensorFlow, Scikit-learn",Generative AI,Advanced,6 Weeks,AI Code Assistant using Artificial Intelligence and Machine Learning techniques.
+P085,AI Research Assistant,Generative AI,"TensorFlow, spaCy, SQL, OpenCV",Generative AI,Intermediate,4 Weeks,AI Research Assistant using Artificial Intelligence and Machine Learning techniques.
+P086,AI Meeting Summarizer,Generative AI,"NLTK, OpenCV, Python, spaCy",Generative AI,Beginner,4 Weeks,AI Meeting Summarizer using Artificial Intelligence and Machine Learning techniques.
+P087,AI Career Advisor,Generative AI,"NLTK, SQL, Scikit-learn, TensorFlow",Generative AI,Advanced,2 Weeks,AI Career Advisor using Artificial Intelligence and Machine Learning techniques.
+P088,AI Content Generator,Generative AI,"Python, spaCy, PyTorch, TensorFlow",Generative AI,Advanced,8 Weeks,AI Content Generator using Artificial Intelligence and Machine Learning techniques.
+P089,AI Notes Generator,Generative AI,"Python, SQL, NLTK, Scikit-learn",Generative AI,Beginner,5 Weeks,AI Notes Generator using Artificial Intelligence and Machine Learning techniques.
+P090,AI Image Caption Generator,Generative AI,"TensorFlow, Scikit-learn, OpenCV, NLTK",Generative AI,Beginner,5 Weeks,AI Image Caption Generator using Artificial Intelligence and Machine Learning techniques.
+P091,Smart Home Automation,IoT,"NLTK, spaCy, NumPy, Pandas",IoT,Intermediate,6 Weeks,Smart Home Automation using Artificial Intelligence and Machine Learning techniques.
+P092,Smart Parking System,IoT,"Flask, spaCy, PyTorch, SQL",IoT,Advanced,2 Weeks,Smart Parking System using Artificial Intelligence and Machine Learning techniques.
+P093,Smart Street Lights,IoT,"PyTorch, Python, OpenCV, NumPy",IoT,Beginner,3 Weeks,Smart Street Lights using Artificial Intelligence and Machine Learning techniques.
+P094,Air Quality Monitoring,IoT,"TensorFlow, Pandas, spaCy, SQL",IoT,Advanced,3 Weeks,Air Quality Monitoring using Artificial Intelligence and Machine Learning techniques.
+P095,Water Quality Monitoring,IoT,"SQL, NumPy, Scikit-learn, Flask",IoT,Advanced,8 Weeks,Water Quality Monitoring using Artificial Intelligence and Machine Learning techniques.
+P096,Smart Dustbin,IoT,"spaCy, NLTK, Pandas, Scikit-learn",IoT,Intermediate,6 Weeks,Smart Dustbin using Artificial Intelligence and Machine Learning techniques.
+P097,Smart Energy Meter,IoT,"Python, OpenCV, SQL, Flask",IoT,Intermediate,5 Weeks,Smart Energy Meter using Artificial Intelligence and Machine Learning techniques.
+P098,Weather Monitoring System,IoT,"NLTK, OpenCV, Flask, PyTorch",IoT,Advanced,8 Weeks,Weather Monitoring System using Artificial Intelligence and Machine Learning techniques.
+P099,Smart Traffic Management,IoT,"SQL, spaCy, Flask, PyTorch",IoT,Intermediate,3 Weeks,Smart Traffic Management using Artificial Intelligence and Machine Learning techniques.
+P100,IoT Health Monitoring,IoT,"PyTorch, NumPy, TensorFlow, Scikit-learn",IoT,Beginner,8 Weeks,IoT Health Monitoring using Artificial Intelligence and Machine Learning techniques.
